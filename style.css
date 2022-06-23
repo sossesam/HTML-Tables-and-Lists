@@ -1,0 +1,21 @@
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    
+}
+table{
+border-spacing: 10px;
+margin: 15px auto;
+width:100%;
+}
+h2,h1{
+text-align: center;
+border: 1px  solid black;
+margin: auto;
+width: 90%;
+font-size: 12px;
+}
+.Total_score{
+width:30%;
+}
